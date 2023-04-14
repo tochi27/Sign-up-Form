@@ -1,0 +1,35 @@
+.formu{
+    background-color: grey;
+    justify-content: center;
+    margin: auto;
+    padding-left: 40px;
+    padding-bottom: 30px;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.img{
+    width: 150px;
+}
+
+input{
+    outline: none;
+    border-radius: 10px;
+    /* height: 2rem;
+    width: 1rem; */
+}
+
+.btn{
+    background-color: red;
+    outline: none;
+    border: none;
+    padding: 10px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+label:hover{
+    color: aqua;
+    font-family: tilt prism;
+}
